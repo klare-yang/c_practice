@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/yang/Documents/code/c_practice/ACM_ICPC/Algorithm Competition/qsort_struct_by_field'
+relocations:     []
+...
